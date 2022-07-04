@@ -1,0 +1,1 @@
+import './components/ShompysImage.js';
