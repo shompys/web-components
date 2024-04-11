@@ -1,3 +1,9 @@
+:root {
+    --color-test: #0f0;
+}
 body {
     background-color: rgb(194, 189, 230);
+}
+my-button {
+    --color-test: #f8d;
 }
